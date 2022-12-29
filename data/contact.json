@@ -1,0 +1,41 @@
+{
+    "Instagram": {
+        "link": "https://www.instagram.com/manipalbiomachines",
+        "icon": "bi-instagram"
+    },
+    "LinkedIn": {
+        "link": "https://in.linkedin.com/company/manipal-biomachines",
+        "icon": "bi-linkedin",
+        "color": "royalblue"
+    },
+    "Location": {
+        "link": "https://www.bing.com/maps?where=Manipal+576104+Karnataka+IN&trk=org-locations_url",
+        "icon": "bi-map",
+        "color": "green"
+    },
+    "FaceBook": {
+        "link": "https://www.facebook.com/manipalbiomachines/",
+        "icon": "bi-facebook",
+        "color": "royalblue"
+    },
+    "LinkTree": {
+        "link": "https://linktr.ee/manipal_biomachines",
+        "icon": "bi-link-45deg",
+        "color": "black"
+    },
+    "YouTube": {
+        "link": "https://www.youtube.com/@manipalbiomachines5715",
+        "icon": "bi-youtube",
+        "color": "red"
+    },
+    "GitHub": {
+        "link": "https://github.com/Manipal-Biomachines",
+        "icon": "bi-github",
+        "color": "black"
+    },
+    "Mail": {
+        "link": "mailto:manipalbiomachines.igem@gmail.com",
+        "icon": "bi-envelope",
+        "color": "gray"
+    }
+}
