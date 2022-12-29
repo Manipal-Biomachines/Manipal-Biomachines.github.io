@@ -19,7 +19,15 @@
     line-height: normal;
 }
 
+a {
+    color: royalblue;
+    text-decoration: none;
+}
 
+a:hover {
+    color: darkblue;
+    text-decoration: underline;
+}
 
 /* MARKETING CONTENT
 -------------------------------------------------- */
